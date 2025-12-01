@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "inconsolata", sans-serif;
+}
+
+
+header {
+    background-color:  rgb(11, 55, 122);
+    text-align: center;      
+    padding: 2rem;   
+           
+}
+
+
+header ul {
+    display: flex;
+    justify-content: center;   
+    gap: 5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  
+}
+
+
+header a {
+    color: black;
+    text-decoration: none;
+    font-size: 1.6rem;
+}
+
+
+
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 100vw;      
+    height: 100vh;     
+    object-fit: cover; 
+    display: block;  
+}
