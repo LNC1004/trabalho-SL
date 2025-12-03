@@ -9,13 +9,19 @@ header{
     background-color: #490808;
     text-align: center;   
     padding: 20px;
-       
+
+        
+    h1{
+        color: white;
+        background-color: transparent;
+    }
 }
 
 body{
     background-color: #050f29;
-
-    
+    p{
+        color: white;
+    }
 }
 
 
@@ -25,8 +31,6 @@ img, p {
     border-radius: 15px;
     margin: 20px;
     width: 80%;
-    color: white;
-    
    
 }
 
@@ -41,16 +45,4 @@ section{
     align-items: center;
     padding: 20px;
     
-}
-
-.H1{
-    color: whitesmoke;
-}
-
-h2{
-    color: whitesmoke;
-}
-
-li{
-    color: white;
 }

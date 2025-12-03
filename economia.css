@@ -9,7 +9,10 @@ header{
     background-color: #490808;
     text-align: center;   
     padding: 20px;
-
+    
+    h1{
+        background-color: transparent;
+    }
     
     }
 
@@ -50,4 +53,17 @@ section{
 }
 .H1{
     color: whitesmoke;
+}
+
+ol{
+    background-color: transparent;
+}
+
+li{
+    color: white;
+    background-color: transparent;
+}
+
+h2{
+    color: white;
 }
