@@ -34,6 +34,7 @@ header{
     object-fit: cover;
     border-radius: 15px;
     margin-bottom: 20px;
+    position: relative;
 }
 
 .texto-cultura {
@@ -58,7 +59,7 @@ li {
 
 
 section{
-    background-color: rgb(11, 55, 122);
+    background-color: #262247;
     border-radius: 15px;
     display: flex;
     width: 80%;
@@ -68,4 +69,5 @@ section{
     align-items: center;
     padding: 20px;
 }
+
 
